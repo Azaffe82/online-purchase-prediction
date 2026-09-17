@@ -109,21 +109,27 @@ Performance declined substantially without `PageValues`, showing that the final 
 
 ## Repository Structure
 
-```text
 online-purchase-prediction/
 ├── data/
-│   ├── raw/
-│   └── processed/
+│   └── raw/
+│       ├── online_shoppers_intention.csv
+│       └── online_shoppers.zip
 ├── notebooks/
 │   ├── 01_data_audit_eda.ipynb
-│   └── 02_preprocessing_modelling_final.ipynb
+│   └── 02_preprocessing_modelling.ipynb
 ├── reports/
 │   └── figures/
+│       ├── class_balance.png
+│       ├── correlation_heatmap.png
 │       ├── final_model_evaluation.png
-│       └── final_model_feature_importance.png
-├── src/
-└── README.md
-```
+│       ├── final_model_feature_importance.png
+│       ├── pagevalues_distribution.png
+│       ├── pagevalues_purchase_rate.png
+│       ├── purchase_rate_by_month.png
+│       └── purchase_rate_by_visitor_type.png
+├── .gitignore
+├── README.md
+└── requirements.txt
 
 ## Running the Project
 
@@ -144,7 +150,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost
 
 ```text
 notebooks/01_data_audit_eda.ipynb
-notebooks/02_preprocessing_modelling_final.ipynb
+notebooks/02_preprocessing_modelling.ipynb
 ```
 
 ## Presentation
