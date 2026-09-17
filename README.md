@@ -149,7 +149,7 @@ notebooks/02_preprocessing_modelling_final.ipynb
 
 ## Presentation
 
-The Google Slides presentation link will be added after the presentation is completed.
+[View the project presentation in Google Slides](https://docs.google.com/presentation/d/1ndZUwfda2W1RuMFlGI5eKW_G3bWMqH4D/edit?usp=sharing)
 
 ## Team
 
