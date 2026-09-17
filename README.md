@@ -143,7 +143,7 @@ cd online-purchase-prediction
 2. Install the required Python packages:
 
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn xgboost
+pip install -r requirements.txt
 ```
 
 3. Open and run the notebooks in this order:
