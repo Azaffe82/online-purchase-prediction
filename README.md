@@ -155,7 +155,8 @@ notebooks/02_preprocessing_modelling.ipynb
 
 ## Presentation
 
-[View the project presentation in Google Slides](https://docs.google.com/presentation/d/1ndZUwfda2W1RuMFlGI5eKW_G3bWMqH4D/edit?usp=sharing)
+[View the project presentation in Google Slides]
+https://docs.google.com/presentation/d/1psOADTZIzlDosMvghaCD8PSaJC5bOFuc/edit?usp=sharing&ouid=112500422231521960830&rtpof=true&sd=true
 
 ## Team
 
